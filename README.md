@@ -4,18 +4,24 @@
 
 Este repositorio publica **solo los instaladores** de cada versión. El código fuente no es público.
 
+<!-- version-actual:inicio -->
+## Versión actual
+
+Todavía no hay una versión publicada. Cuando se publique, aquí verás su número, la fecha y un resumen de las novedades.
+<!-- version-actual:fin -->
+
 ## Descargar
 
-➡️ **[Descargar la última versión](https://github.com/jorge-manriquez-m/sophia-studio-versiones/releases/latest)**: en la página, el archivo `SophiaStudio-<versión>.exe` de la sección *Assets*.
+➡️ **[Descargar la última versión](https://github.com/sophia-studio/sophia-studio/releases/latest)**: en la página, el archivo `SophiaStudio-<versión>.exe` de la sección *Assets*.
 
-Las versiones anteriores, con sus notas de cambios, están en **[todas las versiones](https://github.com/jorge-manriquez-m/sophia-studio-versiones/releases)**.
+Las versiones anteriores, con sus notas de cambios, están en **[todas las versiones](https://github.com/sophia-studio/sophia-studio/releases)**.
 
 > Windows puede mostrar un aviso de SmartScreen la primera vez («Windows protegió su PC»). Para continuar, usa **Más información → Ejecutar de todas formas**.
 
 ## Requisitos
 
 - Windows 10 u 11 de 64 bits.
-- Conexión a internet para iniciar sesión y renovar la licencia. Con una licencia vigente, la app funciona sin conexión unos días.
+- Conexión a internet para iniciar sesión. Después, la app funciona sin conexión unos días.
 - Una cuenta de Sophia Studio. Se crea desde la propia app o en [sophiastudio.crea-lab.cl](https://sophiastudio.crea-lab.cl).
 
 La instalación no pide permisos de administrador: se instala para tu usuario de Windows.
@@ -44,4 +50,4 @@ Para cualquier otra consulta, usa [Soporte en tu cuenta](https://sophiastudio.cr
 
 ---
 
-© CreaLab. Todos los derechos reservados. El uso del programa está sujeto a la licencia de tu cuenta.
+© CreaLab. Todos los derechos reservados. El uso del programa está sujeto a los Términos y Condiciones de tu cuenta.
